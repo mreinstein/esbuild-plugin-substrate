@@ -1,0 +1,28 @@
+{
+  "name": "esbuild-plugin-substrate",
+  "version": "0.1.0",
+  "description": "esbuild plugin to convert explorable.md documents into plain javascript modules.",
+  "main": "esbuild-plugin-substrate.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mreinstein/esbuild-plugin-substrate.git"
+  },
+  "keywords": [
+    "esbuild",
+    "substrate",
+    "plugin"
+  ],
+  "author": "Mike Reinstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mreinstein/esbuild-plugin-substrate/issues"
+  },
+  "homepage": "https://github.com/mreinstein/esbuild-plugin-substrate#readme",
+  "dependencies": {
+    "substrate-build": "^0.8.0"
+  }
+}
