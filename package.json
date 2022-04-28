@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/mreinstein/esbuild-plugin-substrate#readme",
   "dependencies": {
-    "substrate-build": "^0.9.0"
+    "substrate-build": "^0.10.0"
   }
 }
